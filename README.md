@@ -1,4 +1,4 @@
-# **Next.js 15 Data Transmission Repository**
+# **Forms Management with Next.js 15**
 
 ## *Overview*
 This repository demonstrates four distinct methods for sending data from a Next.js 15 application to a server. Each method is tailored to specific use cases, allowing developers to choose the best approach based on their application needs.
@@ -26,15 +26,13 @@ To get started with this repository, follow these steps:
 ```
 Clone the repository:
 bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone git@github.com:s-babaeizadeh/next-js-sending-data-typescript-zod.git
 cd your-repo-name
 
 Install dependencies:
-bash
 npm install
 
 Run the development server:
-bash
 npm run dev
 ```
 
