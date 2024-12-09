@@ -1,4 +1,4 @@
-# **Forms Management with Next.js 15**
+# **Forms Management in Next.js 15**
 
 ## *Overview*
 This repository demonstrates four distinct methods for sending data from a Next.js 15 application to a server. Each method is tailored to specific use cases, allowing developers to choose the best approach based on their application needs.
